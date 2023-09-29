@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+
+}
+h1{
+    background-color: rgb(96, 13, 13);
+    color:aliceblue;
+    font-size:larger;
+    font-weight: 900;
+
+
+}
+
+.yes-i-can{
+    color:azure;
+}
+.image{
+border-radius: 100%;
+max-width: 90%;
+
+}
+

@@ -1,0 +1,9 @@
+.city main{
+    font-weight:bold;
+    color: blue;
+}
+#city{
+    font-weight: lighter;
+font-size: larger;
+color: aqua;
+}

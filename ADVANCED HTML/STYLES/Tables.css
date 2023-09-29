@@ -1,0 +1,19 @@
+table,th, td {
+    border:1px solid black;
+    border-collapse: collapse; 
+    align-self: center;
+
+}
+body{
+    background-color: bisque;
+    
+    
+}
+
+    th:nth-child(even) {
+        background-color: #22b7e4; /* You can change this color as desired */}
+        
+        tr:nth-child(even) {
+            background-color: #ec86bb; /* You can change this color as desired */
+
+}
