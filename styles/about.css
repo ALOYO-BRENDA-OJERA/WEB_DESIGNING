@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+background-image: url(../images/wooden-removebg-preview.png);
+background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color:aquamarine;
+    margin:0;
+    padding:0;
+}
+h1{
+ text-align: center;
+}
+h2{
+    text-align: left;
+}
+.burger{ 
+    text-align: left;
+    font-weight: 900;
+    color: red;
+
+}
+ .pizza{
+    display:flex;
+    
+
+ }
+    

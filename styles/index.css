@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/food-on-a-plate-removebg-preview.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: hsl(30, 9%, 82%);
+}
+h1{
+    text-align: center;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: size 1000px;
+}
