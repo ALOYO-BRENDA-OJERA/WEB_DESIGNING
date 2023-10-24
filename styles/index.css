@@ -1,15 +1,62 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('../images/food-on-a-plate-removebg-preview.png');
+    
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    background-color: hsl(30, 9%, 82%);
+    background-color:rgb(234, 133, 9);
 }
 h1{
     text-align: center;
     color: black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font: size 1000px;
+}
+
+.head{
+    font-size: 50px;
+    text-align: center;
+}
+.welcome{
+    font-size: 60px;
+}
+.container{
+     
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh;  
+    
+}
+.container{
+    margin-bottom: 10px;
+}
+.image{
+    max-width: 100%; 
+    max-height: 100%; 
+    width: 800px;
+    height: 900px;
+    
+}
+
+.tag{
+    line-height:4px;
+}
+.above{
+    font-size: 65px;
+    color: blue;
+    font-weight: bolder;
+}
+.maq{
+    font-size: 30px;
+    color:rgb(253, 160, 46);
+    background-color:rgb(240, 90, 9);
+}
+.more{
+    font-size:65px ;
+    color: black;
+}
+.im{
+    background-color: rgb(211, 210, 208);
 }
