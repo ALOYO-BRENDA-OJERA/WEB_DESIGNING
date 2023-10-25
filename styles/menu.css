@@ -15,7 +15,7 @@ h1{
 }
 
 .head{
-    font-size: 50px;
+    font-size: 20px;
     text-align: center;
 }
 .welcome{
@@ -42,11 +42,16 @@ h1{
 
 .tag{
     line-height:4px;
+    font-size: 20px;
+    border-image-outset:3%;
+    text-align:right;
+    color: aqua;
 }
 .above{
-    font-size: 65px;
+    font-size: 20px;
     color: blue;
     font-weight: bolder;
+    color: aqua;
 }
 .maq{
     font-size: 30px;
@@ -54,9 +59,21 @@ h1{
     background-color:rgb(240, 90, 9);
 }
 .more{
-    font-size:65px ;
+    font-size:40px;
     color: black;
+    background-color: aquamarine;
 }
 .im{
     background-color: rgb(211, 210, 208);
+}
+.end{
+    background-color: grey;
+}
+.head{
+    background-color: rgb(202, 237, 6);
+}
+.our{
+    color: rgb(53, 13, 233);
+    text-align: center;
+    font-size: 50px;
 }

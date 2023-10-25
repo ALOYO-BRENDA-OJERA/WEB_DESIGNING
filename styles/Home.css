@@ -1,6 +1,6 @@
 body{
     background-color: aquamarine;
-background-image: url(../images/wooden-removebg-preview.png);
+background-image: url(../images/food-4k.jpg);
 background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -25,4 +25,17 @@ h2{
     
 
  }
+ .word{
+    background-color: orangered;
+    text-align: center;
+    text-decoration: wavy;
+ }
+    .our{
+    align-items: center;
+    background-color: antiquewhite;
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    }
+
     
