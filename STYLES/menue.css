@@ -1,0 +1,62 @@
+.upper-background{
+    background-image: url(../IMAGES/new\ top\ back.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.menu-item {
+    width: calc(33.33% - 10px);
+    text-align: center;
+    margin: 10px;
+}
+
+.menu-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.maq{
+    font-size: 30px;
+    color: rgb(21, 21, 21);
+}
+
+
+
+
+
+body{
+    background-color: rgb(243, 139, 101);
+}
+.home{
+    color: black;
+    font-size: 50px;
+
+}
+.call_cont{
+    text-align: center;
+    background-color: rgb(93, 91, 91);
+    color: black;
+}
+a{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    color: center;
+}
+#last{
+    text-align: center;
+    background-color: grey;
+}
+    
+

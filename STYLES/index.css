@@ -1,0 +1,78 @@
+body{
+    background-image: url(../IMAGES/tea\ towel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    display:inline;
+  text-align: center;
+    padding: 0;
+    overflow: hidden;
+color: black;
+font-size: larger;
+font-weight: bolder;
+
+}
+
+li {
+    float:left;
+}
+
+li a{
+    display:block;
+    color: rgb(12, 12, 12);
+    padding:8px;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+    background-color: rgb(249, 249, 243);
+}
+.container{
+    text-align: center;
+}
+
+
+
+
+li a:hover{
+    background-color: #454343;
+    border: 3px solid rgb(246, 246, 244);
+}
+.header{
+    background-color: rgb(223, 213, 210);
+    color: black;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.image{
+    margin: 0;
+    padding:0;
+    background-color: orange;
+
+}
+.footer{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #454343;
+    color: white;
+}
+.call{
+align-items: center;
+
+}
+.location, .call{
+    margin:50px;
+
+
+}
+.menue{
+    font-size: 30px;
+    color: black;
+    font-weight: bolder;
+}
